@@ -1,0 +1,81 @@
+original_index,randomized_index,Blank,QC_Inter_Batch,QC_Intra_Batch,species,family,genus,site_of_collection,state,city,date,year,month,season,comments
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+172,0,,,,Tsuga canadensis,Pinaceae,Tsuga,Acadia National Park,Maine,Bar Harbor,2023-11-04,2023.0,November,Fall,Sample from coastal area
+118,1,,,,Juglans nigra,Juglandaceae,Juglans,Cuyahoga Valley National Park,Ohio,Cleveland,2024-05-07,2024.0,May,Spring,Sample from valley floor
+147,2,,,,Fraxinus americana,Oleaceae,Fraxinus,Shenandoah National Park,Virginia,Charlottesville,2024-04-21,2024.0,April,Spring,Sample from forest trail
+77,3,,,,Pinus strobus,Pinaceae,Pinus,Greenwood Park,Maine,Portland,2023-06-09,2023.0,June,Summer,Sample from pine forest edge
+84,4,,,,Populus tremuloides,Salicaceae,Populus,Yosemite National Park,California,Yosemite,2024-01-12,2024.0,January,Winter,Sample from lower valley
+67,5,,,,Tsuga canadensis,Pinaceae,Tsuga,Acadia National Park,Maine,Bar Harbor,2023-10-28,2023.0,November,Fall,Sample from coastal area
+59,6,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-12,2024.0,June,Summer,Sample from wetland
+141,7,,,,Aesculus flava,Sapindaceae,Aesculus,Yellowstone Park,Wyoming,Cody,2023-10-10,2023.0,October,Fall,Sample from valley
+31,8,,,,Quercus alba,Fagaceae,Quercus,Highland Park,Illinois,Chicago,2023-05-21,2023.0,May,Spring,Sample collected near oak grove
+199,9,,,,Picea glauca,Pinaceae,Picea,Rocky Mountain Park,Colorado,Denver,2023-08-19,2023.0,August,Summer,Collected at high altitude
+130,10,,,,Carya ovata,Juglandaceae,Carya,Ozark National Forest,Arkansas,Fayetteville,2024-02-18,2024.0,February,Winter,Sample from hilly area
+173,11,,,,Alnus rubra,Betulaceae,Alnus,Redwood National Park,California,Crescent City,2023-12-02,2023.0,December,Winter,Collected near redwoods
+155,12,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-06,2023.0,September,Fall,Collected from dense forest
+44,13,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-14,2024.0,June,Summer,Sample from wetland
+95,14,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-08,2023.0,September,Fall,Collected from dense forest
+117,15,,,,Fraxinus americana,Oleaceae,Fraxinus,Shenandoah National Park,Virginia,Charlottesville,2024-04-23,2024.0,April,Spring,Sample from forest trail
+81,16,,,,Aesculus flava,Sapindaceae,Aesculus,Yellowstone Park,Wyoming,Cody,2023-10-06,2023.0,October,Fall,Sample from valley
+105,17,,,,Acer rubrum,Sapindaceae,Acer,Forest Park,New York,NY,2023-04-06,2023.0,April,Spring,Sample collected near river
+150,18,,,,Acer rubrum,Sapindaceae,Acer,Forest Park,New York,NY,2023-04-07,2023.0,April,Spring,Sample collected near river
+18,19,,,,Betula papyrifera,Betulaceae,Betula,Lake Park,Minnesota,Duluth,2023-06-29,2023.0,July,Summer,Sample near lake shore
+171,20,,,,Aesculus flava,Sapindaceae,Aesculus,Yellowstone Park,Wyoming,Cody,2023-10-07,2023.0,October,Fall,Sample from valley
+123,21,,,,Betula papyrifera,Betulaceae,Betula,Lake Park,Minnesota,Duluth,2023-07-16,2023.0,July,Summer,Sample near lake shore
+24,22,,,,Populus tremuloides,Salicaceae,Populus,Yosemite National Park,California,Yosemite,2023-12-28,2024.0,January,Winter,Sample from lower valley
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+39,23,,,,Populus tremuloides,Salicaceae,Populus,Yosemite National Park,California,Yosemite,2024-01-18,2024.0,January,Winter,Sample from lower valley
+178,24,,,,Juglans nigra,Juglandaceae,Juglans,Cuyahoga Valley National Park,Ohio,Cleveland,2024-04-30,2024.0,May,Spring,Sample from valley floor
+159,25,,,,Populus tremuloides,Salicaceae,Populus,Yosemite National Park,California,Yosemite,2024-01-24,2024.0,January,Winter,Sample from lower valley
+30,26,,,,Acer rubrum,Sapindaceae,Acer,Forest Park,New York,NY,2023-04-11,2023.0,April,Spring,Sample collected near river
+28,27,,,,Juglans nigra,Juglandaceae,Juglans,Cuyahoga Valley National Park,Ohio,Cleveland,2024-05-17,2024.0,May,Spring,Sample from valley floor
+113,28,,,,Alnus rubra,Betulaceae,Alnus,Redwood National Park,California,Crescent City,2023-12-04,2023.0,December,Winter,Collected near redwoods
+66,29,,,,Aesculus flava,Sapindaceae,Aesculus,Yellowstone Park,Wyoming,Cody,2023-10-18,2023.0,October,Fall,Sample from valley
+104,30,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-07,2024.0,June,Summer,Sample from wetland
+52,31,,,,Tsuga canadensis,Pinaceae,Tsuga,Acadia National Park,Maine,Bar Harbor,2023-10-30,2023.0,November,Fall,Sample from coastal area
+131,32,,,,Ulmus americana,Ulmaceae,Ulmus,Central Park,New York,NY,2024-03-06,2024.0,March,Spring,Sample collected near water body
+163,33,,,,Juglans nigra,Juglandaceae,Juglans,Cuyahoga Valley National Park,Ohio,Cleveland,2024-04-30,2024.0,May,Spring,Sample from valley floor
+64,34,,,,Picea glauca,Pinaceae,Picea,Rocky Mountain Park,Colorado,Denver,2023-08-03,2023.0,August,Summer,Collected at high altitude
+101,35,,,,Ulmus americana,Ulmaceae,Ulmus,Central Park,New York,NY,2024-03-04,2024.0,March,Spring,Sample collected near water body
+94,36,,,,Picea glauca,Pinaceae,Picea,Rocky Mountain Park,Colorado,Denver,2023-08-11,2023.0,August,Summer,Collected at high altitude
+134,37,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-08,2024.0,June,Summer,Sample from wetland
+46,38,,,,Quercus alba,Fagaceae,Quercus,Highland Park,Illinois,Chicago,2023-05-18,2023.0,May,Spring,Sample collected near oak grove
+41,39,,,,Ulmus americana,Ulmaceae,Ulmus,Central Park,New York,NY,2024-03-08,2024.0,March,Spring,Sample collected near water body
+68,40,,,,Alnus rubra,Betulaceae,Alnus,Redwood National Park,California,Crescent City,2023-12-10,2023.0,December,Winter,Collected near redwoods
+80,41,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-28,2023.0,September,Fall,Collected from dense forest
+161,42,,,,Ulmus americana,Ulmaceae,Ulmus,Central Park,New York,NY,2024-03-03,2024.0,March,Spring,Sample collected near water body
+0,43,,,,Acer rubrum,Sapindaceae,Acer,Forest Park,New York,NY,2023-04-26,2023.0,April,Spring,Sample collected near river
+14,44,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-11,2024.0,June,Summer,Sample from wetland
+115,45,,,,Carya ovata,Juglandaceae,Carya,Ozark National Forest,Arkansas,Fayetteville,2024-03-02,2024.0,February,Spring,Sample from hilly area
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+179,46,,,,Larix laricina,Pinaceae,Larix,Boundary Waters Canoe Area,Minnesota,Ely,2024-06-24,2024.0,June,Summer,Sample from wetland
+165,47,,,,Acer rubrum,Sapindaceae,Acer,Forest Park,New York,NY,2023-04-11,2023.0,April,Spring,Sample collected near river
+143,48,,,,Alnus rubra,Betulaceae,Alnus,Redwood National Park,California,Crescent City,2023-12-05,2023.0,December,Winter,Collected near redwoods
+170,49,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-17,2023.0,September,Fall,Collected from dense forest
+91,50,,,,Quercus alba,Fagaceae,Quercus,Highland Park,Illinois,Chicago,2023-04-26,2023.0,May,Spring,Sample collected near oak grove
+167,51,,,,Pinus strobus,Pinaceae,Pinus,Greenwood Park,Maine,Portland,2023-06-22,2023.0,June,Summer,Sample from pine forest edge
+51,52,,,,Aesculus flava,Sapindaceae,Aesculus,Yellowstone Park,Wyoming,Cody,2023-09-22,2023.0,October,Fall,Sample from valley
+47,53,,,,Pinus strobus,Pinaceae,Pinus,Greenwood Park,Maine,Portland,2023-06-10,2023.0,June,Summer,Sample from pine forest edge
+5,54,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-24,2023.0,September,Fall,Collected from dense forest
+22,55,,,,Tsuga canadensis,Pinaceae,Tsuga,Acadia National Park,Maine,Bar Harbor,2023-11-16,2023.0,November,Fall,Sample from coastal area
+128,56,,,,Alnus rubra,Betulaceae,Alnus,Redwood National Park,California,Crescent City,2023-12-02,2023.0,December,Winter,Collected near redwoods
+88,57,,,,Juglans nigra,Juglandaceae,Juglans,Cuyahoga Valley National Park,Ohio,Cleveland,2024-05-01,2024.0,May,Spring,Sample from valley floor
+160,58,,,,Carya ovata,Juglandaceae,Carya,Ozark National Forest,Arkansas,Fayetteville,2024-02-25,2024.0,February,Winter,Sample from hilly area
+70,59,,,,Carya ovata,Juglandaceae,Carya,Ozark National Forest,Arkansas,Fayetteville,2024-03-10,2024.0,February,Spring,Sample from hilly area
+182,60,,,,Pinus strobus,Pinaceae,Pinus,Greenwood Park,Maine,Portland,2023-06-27,2023.0,June,Summer,Sample from pine forest edge
+153,61,,,,Betula papyrifera,Betulaceae,Betula,Lake Park,Minnesota,Duluth,2023-06-22,2023.0,July,Summer,Sample near lake shore
+196,62,,,,Quercus alba,Fagaceae,Quercus,Highland Park,Illinois,Chicago,2023-05-04,2023.0,May,Spring,Sample collected near oak grove
+110,63,,,,Fagus grandifolia,Fagaceae,Fagus,Great Smoky Mountains,Tennessee,Knoxville,2023-09-06,2023.0,September,Fall,Collected from dense forest
+177,64,,,,Fraxinus americana,Oleaceae,Fraxinus,Shenandoah National Park,Virginia,Charlottesville,2024-03-27,2024.0,April,Spring,Sample from forest trail
+102,65,,,,Fraxinus americana,Oleaceae,Fraxinus,Shenandoah National Park,Virginia,Charlottesville,2024-04-24,2024.0,April,Spring,Sample from forest trail
+108,66,,,,Betula papyrifera,Betulaceae,Betula,Lake Park,Minnesota,Duluth,2023-07-08,2023.0,July,Summer,Sample near lake shore
+107,67,,,,Pinus strobus,Pinaceae,Pinus,Greenwood Park,Maine,Portland,2023-06-27,2023.0,June,Summer,Sample from pine forest edge
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
+QC,QC,Blank,QC_Inter_Batch,QC_Intra_Batch,,,,,,,,,,,
