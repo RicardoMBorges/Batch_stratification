@@ -1,7 +1,13 @@
 numpy
 pandas
+odfpy
+seaborn
 plotly
+kaleido
 matplotlib
-seaborn 
-sklearn
+jupyter-server
 scikit-learn
+opencv-python
+PIL
+ipyevents
+psycopg2
